@@ -34,7 +34,7 @@ export default function Home() {
       </div>
       
       <div className="flex flex-col my-52">
-        <h2 className={`${roboto.className} text-center font-extrabold text-5xl`}>Some Favorite Posts</h2>
+        <h2 className={`${roboto.className} text-slate-950 text-center font-extrabold text-5xl`}>Some Favorite Posts</h2>
         <div className="flex  flex-wrap  w-full my-16">
           {posts.map((post, idx) => (
             <HomepostCard key={idx} {...post} />
