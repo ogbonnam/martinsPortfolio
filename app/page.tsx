@@ -20,7 +20,7 @@ export default function Home() {
             alt="Screenshots of the dashboard project showing desktop version"
           /> */}
       <div className="w-11/12 relative z-[-1] flex flex-col place-items-center before:absolute before:h-[300px] before:w-full before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 sm:before:w-[480px] sm:after:w-[240px] before:lg:h-[360px]">
-      <h1 className={`${inter.className} text-black text-6xl text-center font-extrabold`}>Let me Help You Build Your Next Modern Website. <strong className="text-color-red-300">Easy Pissy!!! </strong></h1>
+      <h1 className={`${inter.className} text-black text-6xl text-center font-extrabold`}>Let me Help You Build Your Next Modern Website. <strong className="text-red-600">Easy Pissy!!! </strong></h1>
       <p className={`${roboto.className} text-gray-700 w-4/5 pt-5 text-xl font-bold text-center`}>I can bring your next big idea to life using code. I love playing with code, designing your frontend using modern technology, building the backend and its database and automating and deploying your product using DevOps pipeline.</p>
       
       </div>
