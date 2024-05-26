@@ -28,7 +28,7 @@ export default function Home() {
         <button className={`{$roboto.classname} m-5 bg-black hover:bg-transparent hover:text-black rounded-sm text-white p-3 text-sm text-extrabold`}>
           Contact Me
         </button>
-        <button className="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
+        <button className="bg-transparent hover:bg-red-500 text-red-700 font-semibold hover:text-white py-2 px-4 border border-red-500 hover:border-transparent rounded">
           Button
         </button>
       </div>
